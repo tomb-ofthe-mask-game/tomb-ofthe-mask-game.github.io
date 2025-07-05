@@ -1,1 +1,1 @@
-# tomb-ofthe-mask-game.github.io
+Tomb of the Mask will take you to explore mysterious tombs deep underground. You will be transformed into a tomb to explore the mysterious underground.

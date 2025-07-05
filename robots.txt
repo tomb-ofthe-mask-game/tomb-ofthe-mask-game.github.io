@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /sitemap.xml
+Sitemap: https://tomb-ofthe-mask-game.github.io/sitemap.xml
